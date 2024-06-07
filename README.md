@@ -2,6 +2,10 @@
 
 Slide-JS is a JavaScript slider library designed to be flexible and easy to integrate into any web project. It features a variety of controls and customization options, including touch responsiveness, pagination, navigation buttons, and automatic adjustment on window resize.
 
+
+https://github.com/eduardowanderleyde/slide-js/assets/103546791/99ecc297-fa52-4e49-9704-e5dde9c077dc
+
+
 ## Features
 
 - **Debounce Functionality**: Optimizes the performance by limiting the rate at which an event handler is called.
