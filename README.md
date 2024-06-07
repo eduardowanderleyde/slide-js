@@ -29,10 +29,11 @@ Clone the repository to your local machine:
 ```bash
 git clone git@github.com:eduardowanderleyde/slide-js.git
 cd slide-js
+```
 
+![slidejs1](https://github.com/eduardowanderleyde/slide-js/assets/103546791/a5dc22a6-f3bc-4dd0-a577-54b87293b4af)
 
-![slidejs3](https://github.com/eduardowanderleyde/slide-js/assets/103546791/935fcb2c-b1b8-49d8-b681-ff7a3962389b)
-![slidejs2](https://github.com/eduardowanderleyde/slide-js/assets/103546791/9cf5e928-17cd-491c-9727-5332e61a4c8e)
-![slidejs1](https://github.com/eduardowanderleyde/slide-js/assets/103546791/f908b0af-dd0d-4b8d-8625-4a528f19658f)
+![slidejs2](https://github.com/eduardowanderleyde/slide-js/assets/103546791/377355c0-e1fc-4984-ad44-672215bed148)
 
+![slidejs3](https://github.com/eduardowanderleyde/slide-js/assets/103546791/ff53a6f2-fcca-4f49-b7cf-7d05df0d51bf)
 
